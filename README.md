@@ -9,7 +9,7 @@ Founder of [Elysa's Secret](https://elysasecret.com), a hackathon team of four f
 **Two hackathon wins in a row:**
 
 - **1st place 🥇, Nordic AI Cup 2026 (Denmark):** 1st of 82 teams with Elysa's Secret.
-- **1st place 🥇, Hyperbloom October, UI/UX and Web Design:** [Make-a-Ring](https://devpost.com/software/1483153), built with Javier Arévalo.
+- **1st place 🥇, Hyperbloom October, UI/UX and Web Design:** [Make-a-Ring](https://devpost.com/software/1483153), built with Javier Arévalo. 1st of 738 participants.
 
 ## Projects
 
