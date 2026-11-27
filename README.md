@@ -16,6 +16,10 @@ Founder of [Elysa's Secret](https://elysasecret.com), a hackathon team of four f
 
 ## Projects
 
+| [PHAROS](https://github.com/elysassecret/EDTH_07) | [SuoKuulo](https://github.com/emermelada/suokuulo) | [Make-a-Ring](https://github.com/FearedLynx/make-a-ring) |
+| :---: | :---: | :---: |
+| <a href="https://github.com/elysassecret/EDTH_07"><img src="assets/pharos.jpg" alt="PHAROS shore console: five uncrewed boats guarding the Great Belt cables" /></a> | <a href="https://github.com/emermelada/suokuulo"><img src="assets/suokuulo.jpg" alt="SuoKuulo dashboard: soundscape health score and indicator bird species" /></a> | <a href="https://github.com/FearedLynx/make-a-ring"><img src="assets/make-a-ring.jpg" alt="Make-a-Ring design studio with a 3D ring preview" /></a> |
+
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [OnCall](https://github.com/imbreaszaboccs-star/Break_an_AGent) | Incident-response RL environment with 20 MCP tools. Frontier models scored below our reference run in every test. Junction 2026, AfterQuery 2nd place | Python, MCP, Docker, pytest |
@@ -29,5 +33,10 @@ Founder of [Elysa's Secret](https://elysasecret.com), a hackathon team of four f
 ## Find me on
 
 [Website](https://kossut.dev) · [LinkedIn](https://www.linkedin.com/in/franciszek-kossut-1967633a8/) · [LeetCode](https://leetcode.com/u/FearedLynx_/) · fkossut.inter@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FearedLynx/FearedLynx/output/github-snake-dark.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/FearedLynx/FearedLynx/output/github-snake.svg" />
+</picture>
 
 ![Profile views](https://komarev.com/ghpvc/?username=FearedLynx&color=blue&style=flat)
