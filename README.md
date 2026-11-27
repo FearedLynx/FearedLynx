@@ -16,9 +16,11 @@ Founder of [Elysa's Secret](https://elysasecret.com), a hackathon team of four f
 
 ## Projects
 
-| [PHAROS](https://github.com/elysassecret/EDTH_07) | [SuoKuulo](https://github.com/emermelada/suokuulo) | [Make-a-Ring](https://github.com/FearedLynx/make-a-ring) |
-| :---: | :---: | :---: |
-| <a href="https://github.com/elysassecret/EDTH_07"><img src="assets/pharos.jpg" alt="PHAROS shore console: five uncrewed boats guarding the Great Belt cables" /></a> | <a href="https://github.com/emermelada/suokuulo"><img src="assets/suokuulo.jpg" alt="SuoKuulo dashboard: soundscape health score and indicator bird species" /></a> | <a href="https://github.com/FearedLynx/make-a-ring"><img src="assets/make-a-ring.jpg" alt="Make-a-Ring design studio with a 3D ring preview" /></a> |
+| [Nordic AI Cup: drone flyby detection](https://github.com/emermelada/nordic-ai-cup) | [PHAROS](https://github.com/elysassecret/EDTH_07) |
+| :---: | :---: |
+| <a href="https://github.com/emermelada/nordic-ai-cup"><img src="assets/nordic-drone.jpg" alt="YOLO11 detections on an aerial drone frame: helicopter, launchers, jammer and other targets with confidence scores" /></a> | <a href="https://github.com/elysassecret/EDTH_07"><img src="assets/pharos.jpg" alt="PHAROS shore console: five uncrewed boats guarding the Great Belt cables" /></a> |
+| **[SuoKuulo](https://github.com/emermelada/suokuulo)** | **[Make-a-Ring](https://github.com/FearedLynx/make-a-ring)** |
+| <a href="https://github.com/emermelada/suokuulo"><img src="assets/suokuulo.jpg" alt="SuoKuulo dashboard: soundscape health score and indicator bird species" /></a> | <a href="https://github.com/FearedLynx/make-a-ring"><img src="assets/make-a-ring.jpg" alt="Make-a-Ring design studio with a 3D ring preview" /></a> |
 
 | Project | What it is | Stack |
 | --- | --- | --- |
